@@ -1,2 +1,2 @@
 # osw
-OpenSourceSoftware_기말과
+OpenSourceSoftware_기말과제
